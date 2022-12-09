@@ -55,11 +55,13 @@ console.log(defaultName);
 
 #Education  
 
-- __University:__ Belarussian State University, Translator (English, German)
--__Courses:__ 
-- Belhard Academy, Business Analysis in IT (basic and profssional level)
-- JavaRush online course (beginner)
-- Cocademy online course (beginner)
+- __University:__ Belarussian State University, Translator (English, German)  
+
+-__Courses:__   
+
+* Belhard Academy, Business Analysis in IT (basic and profssional level)
+* JavaRush online course (beginner)
+* Cocademy online course (beginner)
 
 #English  
 
