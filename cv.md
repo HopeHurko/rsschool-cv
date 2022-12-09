@@ -9,7 +9,7 @@
 
 #Profile  
 
-Hardworking and experianced secretary and office manager. Experienced  in creating schedules, making appointments, dealing with company paper flow and organizing overall office life support.
+Hardworking and experienced secretary and office manager. Experienced  in creating schedules, making appointments, dealing with company paper flow and organizing overall office life support.
 
 #Skills  
 
@@ -60,7 +60,7 @@ console.log(defaultName);
 
 - __Courses:__   
 
-1. Belhard Academy, Business Analysis in IT (basic and profssional level)
+1. Belhard Academy, Business Analysis in IT (basic and professional level)
 2. JavaRush online course (beginner)
 3. Cocademy online course (beginner)
 
