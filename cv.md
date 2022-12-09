@@ -1,13 +1,18 @@
-#Nadzeya Shymchyk
-#Contact Information
+#Nadzeya Shymchyk  
+
+#Contact Information  
+
 - __Address:__ Odzintsova st. Minsk, Belarus
 - __E-mail:__ hopehurko@gmail.com
-- __GitHub:__ HopeHurko
+- __GitHub:__ HopeHurko  
 
-#Profile
+
+#Profile  
+
 Hardworking and experianced secretary and office manager. Experienced  in creating schedules, making appointments, dealing with company paper flow and organizing overall office life support.
 
-#Skills
+#Skills  
+
 Java(elementary)
 JavaScript(elementary)
 HTML(in process)
@@ -18,7 +23,8 @@ VSCode, IntelliJ IDEA
 
 #Code Examples
 
--__Java__
+-__Java__  
+
 public class Main {
 public static void main (java.lang. String [] args) {
 
@@ -34,7 +40,8 @@ for (int i =0; i <10; i++) {
 System.out.println (lottery.get (i));
 }}}
 
--__Java Script__
+-__Java Script__  
+
 let username = ‘’;
 let defaultName;
 
@@ -46,12 +53,14 @@ defaultName = ‘Stranger’;
 console.log(defaultName);
 }
 
-#Education
+#Education  
+
 - __University:__ Belarussian State University, Translator (English, German)
 -__Courses:__ 
 - Belhard Academy, Business Analysis in IT (basic and profssional level)
 - JavaRush online course (beginner)
 - Cocademy online course (beginner)
 
-#English
+#English  
+
 B2
